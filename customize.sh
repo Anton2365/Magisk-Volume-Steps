@@ -15,6 +15,7 @@ MINAPI=23
 #MAXAPI=25
 #DYNLIB=true
 #DEBUG=true
+BOOTMODE=true
 
 ##########################################################################################
 # Replace list
