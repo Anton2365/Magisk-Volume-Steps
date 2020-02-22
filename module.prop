@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.4
-versionCode=5
-author=Zackptg5
-description=
+id=M-VS
+name=Magisk-VolumeStep
+version=v0.9a1
+versionCode=alpha1
+author=Anton2365
+description=VolStepChngr
 support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
